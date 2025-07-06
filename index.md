@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Kobe's Jekyll Theme
